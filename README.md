@@ -1,6 +1,3 @@
-# ASSIGNMENT-6
-starting with the code handout please make sure that the clock works correctly for each selected timezone from the dropdown.
-
 <!doctype html>
 <html>
 
